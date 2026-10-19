@@ -34,3 +34,6 @@ form.addEventListener("submit", function (event) {
   `;
 });
 0
+
+console.log("Places loaded:", places);
+
