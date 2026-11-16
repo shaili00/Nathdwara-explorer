@@ -29,8 +29,8 @@ form.addEventListener("submit", function (event) {
     <p><strong>Budget:</strong> ₹${budget}</p>
     <p><strong>Travel group:</strong> ${group}</p>
     <p><strong>Your interests:</strong> ${interests.join(", ")}</p>
-    <p>Great! Your choices have been received. Next, we will use them
-    to recommend suitable places from your researched dataset.</p>
+    <p>Great! Your choices have been received. Next, we will use them to recommend suitable places from your 
+researched dataset.</p>
   `;
 });
 0
